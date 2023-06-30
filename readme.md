@@ -6,7 +6,7 @@
 <br />
 ``cd tp-wp``
 <br />
-``cdocker-compose up --build -d``
+``docker-compose up --build -d``
 <br />
 
 Project: 
