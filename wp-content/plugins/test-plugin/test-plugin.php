@@ -60,6 +60,12 @@ function tp_fn_stocks_archive()
     return ob_get_clean();
 }
 
+
+/**
+* Stock query to DB with filter
+*
+* @return array
+*/
 function tp_fn_stock_query()
 {
     $meta_query = [];
